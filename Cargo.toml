@@ -1,6 +1,6 @@
 [package]
 name = "mp3_parser"
 version = "0.1.0"
-authors = ["centip3de <goodkingkyle@gmail.com>"]
+authors = ["centip3de <>"]
 
 [dependencies]
